@@ -1,0 +1,5 @@
+nameserver 100.100.100.100
+search_order 1
+timeout 5
+
+
